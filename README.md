@@ -1,7 +1,7 @@
 # Visualizing-Traffic-Accidents-Patterns-and-Insights
 
 ## Description
-Analyze & visualize US traffic accident data using Python. Explore road conditions, weather, time, & severity to uncover insights. Visualizations include maps, time-series, & severity breakdowns to enhance road safety strategies.
+This project analyzes traffic accident data to identify patterns related to road conditions, weather, and time of day. It visualizes accident hotspots and contributing factors using various Python libraries for data manipulation and visualization. The project includes steps for data cleaning, exploratory data analysis, and creating informative visualizations to gain insights into traffic accidents across the US.
 
 ## Acknowledgements
 - **Data Source**: The data used in this project comes from the [US Accidents Dataset](https://www.kaggle.com/sobhanmoosavi/us-accidents) by Sobhan Moosavi on Kaggle.
@@ -121,7 +121,7 @@ This project analyzes traffic accident data to identify patterns related to road
 5. **Geospatial Analysis**:
    - Map accident hotspots using geopy and geopandas.
    - Analyze patterns related to geographic features.
-## Screenshort outputs 
+## Screenshort of Sample Outputs 
 ![Screenshot (19)](https://github.com/KartikyeThakur/Visualizing-Traffic-Accidents-Patterns-and-Insights/assets/172358250/2642a5cc-c152-4977-b8c6-7285d3ba1923)
 ![Screenshot (20)](https://github.com/KartikyeThakur/Visualizing-Traffic-Accidents-Patterns-and-Insights/assets/172358250/a25256c4-01ac-4505-9758-b92433a7510e)
 ![Screenshot (21)](https://github.com/KartikyeThakur/Visualizing-Traffic-Accidents-Patterns-and-Insights/assets/172358250/17dd2cfa-2239-4374-a90f-5917b08b6f07)
